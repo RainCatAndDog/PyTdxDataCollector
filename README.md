@@ -1,1 +1,1 @@
-# PyTdxDataReader
+# PyTdxDataCollector
