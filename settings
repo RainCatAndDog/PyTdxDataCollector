@@ -1,0 +1,13 @@
+# data path
+WORK_SPACE: ./
+DATA_PATH: C:/goldsun/
+
+# data base
+MARKET_DB:
+    DB_TYPE: sqlite # [sqlite, mysql]
+    HOST: 127.0.0.1
+    PORT: 3306
+    DB_NAME: marketdb.sqlite3
+    USER: ABCD
+    PWD: ABCD
+
