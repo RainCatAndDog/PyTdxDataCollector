@@ -1,0 +1,4 @@
+pandas==1.4.4
+pytdx==1.72
+PyYAML==6.0.1
+SQLAlchemy==1.4.39
