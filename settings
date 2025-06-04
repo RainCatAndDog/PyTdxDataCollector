@@ -1,6 +1,6 @@
 # data path
 WORK_SPACE: ./
-DATA_PATH: C:/goldsun/
+DATA_PATH: tdx/path/
 
 # data base
 MARKET_DB:
